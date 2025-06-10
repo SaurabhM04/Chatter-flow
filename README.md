@@ -90,10 +90,9 @@ fullstack-chat-app/
 ### 1. To main dir
 
 ```bash
-cd fullstack-chat-app
-```
+cd Chatter-flow
 
----
+```
 
 ### 2. Setup Backend
 
