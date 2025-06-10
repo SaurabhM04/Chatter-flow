@@ -31,7 +31,7 @@ Supports real-time messaging, group chats, authentication, and profile managemen
 - [Lucide Icons](https://lucide.dev/icons/)
 
 ### Backend
-https://wishpr.onrender.com
+https://Chatter-flow.onrender.com
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
@@ -46,7 +46,7 @@ https://wishpr.onrender.com
 ## Folder Structure
 
 ```
-fullstack-chat-app/
+Chatter-flow/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
